@@ -13,7 +13,7 @@ function About({AboutRef}) {
 
       <div className="w-[60vw] flex flex-col gap-y-5 text-xl text-slate-400 max-md:text-lg max-md:w-[80vw]">
         <Reveal>
-          <p>
+          <p className="max-sm:text-center">
             Hey! I'm <span className="text-blue-400">Pradeep Yadav</span>, and I
             live in Delhi, India. I am currently a 1st year college student pursuing a
             Bachelor's degree in Computer Science with a specialization in
@@ -23,7 +23,7 @@ function About({AboutRef}) {
           </p>
         </Reveal>
         <Reveal>
-          <p>
+          <p className="max-sm:text-center">
             Currently, I am a member of the Google Developer Students Club (
             <span className="text-blue-400">GDSC</span>) NSUT Web Development
             Department and a tech team member at the Innovation and Incubation
@@ -33,7 +33,7 @@ function About({AboutRef}) {
           </p>
         </Reveal>
         <Reveal>
-          <p>
+          <p className="max-sm:text-center">
             Other than coding and studying, I love playing chess, Smash Karts,
             and watching thriller and comedy movies.
           </p>

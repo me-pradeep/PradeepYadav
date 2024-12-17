@@ -28,7 +28,7 @@ function Contact({ContactRef}) {
         </div>
       </Reveal>
 
-      <Socials />
+      <Socials className="pb-5"/>
     </section>
   );
 }

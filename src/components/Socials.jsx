@@ -25,7 +25,7 @@ function Socials() {
         <VscGithubInverted className="text-3xl hover:text-blue-400" />
       </a>
       <a
-        href="https://www.linkedin.com/in/pradeep-yadav-a1b3b62b8/"
+        href="https://www.linkedin.com/in/me-pradeep-yadav/"
         target="_blank"
         rel="noopener noreferrer"
       >

@@ -5,7 +5,7 @@ import Socials from "./Socials";
 
 function Contact({ContactRef}) {
   return (
-    <section ref={ContactRef} className="flex flex-col items-center text-white gap-y-4 overflow-x-hidden overflow-y-hidden">
+    <section ref={ContactRef} className="flex flex-col items-center text-white gap-y-4 overflow-x-hidden overflow-y-hidden pb-6">
       <Reveal>
         <h1 className="text-4xl font-extrabold">
           Contact<span className="text-blue-400">.</span>
@@ -19,7 +19,7 @@ function Contact({ContactRef}) {
           <a 
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.linkedin.com/in/pradeep-yadav-a1b3b62b8/"
+            href="https://www.linkedin.com/in/me-pradeep-yadav/"
             className="text-blue-400"
           >
             Linkedin
@@ -28,7 +28,7 @@ function Contact({ContactRef}) {
         </div>
       </Reveal>
 
-      <Socials className="pb-5"/>
+      <Socials className=""/>
     </section>
   );
 }

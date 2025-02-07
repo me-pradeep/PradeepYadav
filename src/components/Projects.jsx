@@ -17,6 +17,19 @@ function Projects({ProjectRef}) {
       <div className="flex flex-wrap gap-14 justify-center">
         {[
           {
+            src: "/secrate.png",
+            alt: "SECRATE",
+            title: "Secrate- Rate People Anonymously",
+            link: "https://secrate.me/",
+            techStack: [
+              "/tailwind.svg",
+              "/nextjs.svg",
+              "/mongodb.svg",
+              "/nodejs.svg",
+              "/express-js.png"
+            ],
+          },
+          {
             src: "/sutriz.png",
             alt: "SUTRIZ",
             title: "Sutriz- Formulae Revision App",

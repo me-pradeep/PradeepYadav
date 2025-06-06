@@ -18,7 +18,7 @@ function Socials() {
       className="flex gap-2 pt-3"
     >
       <a
-        href="https://github.com/krspra"
+        href="https://github.com/me-pradeep"
         target="_blank"
         rel="noopener noreferrer"
       >

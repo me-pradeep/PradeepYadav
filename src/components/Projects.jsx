@@ -65,14 +65,14 @@ function Projects({ProjectRef}) {
             src: "/currencyexchanger.png",
             alt: "currencyexchanger",
             title: "Currency Exchanger",
-            link: "https://krspra.github.io/currencyExchanger/",
+            link: "https://me-pradeep.github.io/currencyExchanger/",
             techStack: ["/html.png", "/css.svg", "/javascript.svg"],
           },
           {
             src: "/spsgame.png",
             alt: "spsgame",
             title: "Rock Paper Scissor- Game",
-            link: "https://krspra.github.io/RockPaperScissor/",
+            link: "https://me-pradeep.github.io/RockPaperScissor/",
             techStack: ["/html.png", "/css.svg", "/javascript.svg"],
           },
         ].map(({ src, alt, title, link, techStack }, index) => (

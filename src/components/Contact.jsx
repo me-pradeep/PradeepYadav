@@ -19,7 +19,7 @@ function Contact({ContactRef}) {
           <a 
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.linkedin.com/in/me-pradeep/"
+            href="https://www.linkedin.com/in/me-pradeep"
             className="text-blue-400"
           >
             Linkedin
